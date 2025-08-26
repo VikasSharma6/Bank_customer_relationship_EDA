@@ -32,4 +32,4 @@
   	
 6.  Show what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/image.png)
     Example: ![Dashboard Preview](https://github.com/VikasSharma6/Bank_customer_relationship_EDA/blob/main/bank-finance.avif)
-    ![Dashboard Preview]()
+    ![Dashboard Preview](https://github.com/VikasSharma6/Bank_customer_relationship_EDA/blob/main/Bank.avif)
