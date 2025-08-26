@@ -30,4 +30,6 @@
 
     Insights: The analysis observed significant correlations and patterns within the data, which are crucial for subsequent machine learning models.
   	
+6.  Show what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/image.png)
+    Example: ![Dashboard Preview](https://github.com/Vikas7727/Blinkit_dashboard/blob/main/Blinkit%20sales%20data.png)
 
